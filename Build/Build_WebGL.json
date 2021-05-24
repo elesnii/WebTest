@@ -1,6 +1,6 @@
 {
-"companyName": "Zenstem",
-"productName": "NetworkAsset",
+"companyName": "DefaultCompany",
+"productName": "AR_Pipe",
 "productVersion": "0.1",
 "dataUrl": "Build_WebGL.data.unityweb",
 "wasmCodeUrl": "Build_WebGL.wasm.code.unityweb",
